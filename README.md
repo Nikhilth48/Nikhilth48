@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Nikhil%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Designer%20•%20Web%20Dev%20•%20Game%20Dev%20•%20Cloud%20Enthusiast&descAlignY=60&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Nikhil%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20•%20Cloud%20Computing%20•%20Game%20Developer&descAlignY=60&descSize=16"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+beautiful+UX+%26+experiences+✨;Learning+AWS+%26+Cloud+☁️;Creating+games+with+Unity+%26+C%23+🎮;Turning+ideas+into+real+products+🚀)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+Cloud+Systems+☁️;Automating+CI%2FCD+Pipelines+⚙️;Exploring+DevOps+%26+Infrastructure+🚀;Developing+Games+with+Unity+%26+C%23+🎮;Turning+Ideas+into+Production+Ready+Systems+🔥)](https://git.io/typing-svg)
 </div>
 
 ---
